@@ -1,2 +1,2 @@
 # reflectSuppress
-MATLAB implementation of the algorithm in the paper "Fast Single Image Reflection Suppression via Convex Optimization" in CVPR 2019
+MATLAB implementation of the algorithm in the CVPR 2019 paper "Fast Single Image Reflection Suppression via Convex Optimization"
